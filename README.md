@@ -8,3 +8,4 @@ Below are the links to download the necessary files:
 2. The GloVe embeddings file: https://nlp.stanford.edu/data/glove.6B.zip
 3. The modified csv file after the EDA: https://drive.google.com/file/d/1GpUCdsHE2WOmWYqWVx6COyAoOyX9eqyE/view?usp=sharing
 
+Run the code on Jupyter Notebook / Google Collab.
